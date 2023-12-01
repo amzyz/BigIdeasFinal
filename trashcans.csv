@@ -1,0 +1,1194 @@
+container_id,neighborhood
+1.0,Central Northside
+2.0,Marshall-Shadeland
+3.0,Central Northside
+4.0,Allegheny Center
+5.0,Central Northside
+6.0,California-Kirkbride
+7.0,Marshall-Shadeland
+8.0,California-Kirkbride
+9.0,Allegheny Center
+10.0,Manchester
+11.0,Perry North
+12.0,Marshall-Shadeland
+13.0,Perry North
+14.0,Marshall-Shadeland
+15.0,Perry South
+16.0,Fineview
+17.0,Manchester
+18.0,Perry South
+19.0,Allegheny West
+20.0,Perry North
+21.0,Perry North
+22.0,Perry North
+23.0,Manchester
+24.0,Central Northside
+25.0,Troy Hill
+26.0,Marshall-Shadeland
+27.0,East Allegheny
+28.0,Allegheny Center
+29.0,Perry North
+30.0,Brighton Heights
+31.0,Spring Hill-City View
+32.0,Manchester
+33.0,Marshall-Shadeland
+34.0,East Allegheny
+35.0,Brighton Heights
+36.0,Fineview
+37.0,Central Northside
+38.0,Central Northside
+39.0,Marshall-Shadeland
+40.0,Central Northside
+41.0,East Allegheny
+42.0,Allegheny Center
+43.0,Marshall-Shadeland
+44.0,Perry South
+45.0,Brighton Heights
+46.0,Spring Garden
+47.0,East Allegheny
+48.0,Troy Hill
+50.0,Troy Hill
+51.0,Brighton Heights
+52.0,Perry South
+53.0,Troy Hill
+54.0,Troy Hill
+55.0,Marshall-Shadeland
+56.0,Brighton Heights
+57.0,Troy Hill
+58.0,Perry North
+59.0,East Allegheny
+60.0,East Allegheny
+62.0,Spring Garden
+63.0,Brighton Heights
+64.0,East Allegheny
+65.0,Marshall-Shadeland
+66.0,Marshall-Shadeland
+67.0,Brighton Heights
+68.0,Brighton Heights
+69.0,Spring Hill-City View
+70.0,Marshall-Shadeland
+71.0,Allegheny West
+73.0,East Allegheny
+74.0,Spring Garden
+75.0,East Allegheny
+76.0,Perry South
+77.0,Central Northside
+78.0,Marshall-Shadeland
+80.0,Central Northside
+81.0,East Allegheny
+82.0,Troy Hill
+83.0,Allegheny Center
+85.0,Fineview
+86.0,Manchester
+87.0,Marshall-Shadeland
+88.0,Brighton Heights
+89.0,Northview Heights
+90.0,Marshall-Shadeland
+91.0,Marshall-Shadeland
+92.0,Chateau
+93.0,Marshall-Shadeland
+94.0,East Allegheny
+95.0,Troy Hill
+96.0,Troy Hill
+97.0,Troy Hill
+98.0,Brighton Heights
+99.0,Troy Hill
+100.0,Allegheny West
+101.0,Allegheny West
+102.0,Allegheny West
+103.0,Allegheny West
+105.0,East Allegheny
+107.0,East Allegheny
+108.0,Bluff
+109.0,Bluff
+110.0,Bluff
+112.0,East Allegheny
+115.0,East Allegheny
+116.0,Brighton Heights
+117.0,Brighton Heights
+118.0,Allegheny Center
+119.0,East Allegheny
+121.0,Garfield
+122.0,Arlington
+123.0,Greenfield
+125.0,East Liberty
+126.0,Morningside
+127.0,Mt. Oliver
+128.0,Carrick
+129.0,East Liberty
+130.0,Greenfield
+132.0,Greenfield
+133.0,East Liberty
+134.0,East Liberty
+136.0,Beechview
+137.0,Point Breeze
+138.0,Central Business District
+139.0,East Liberty
+141.0,Bluff
+143.0,Beechview
+145.0,Shadyside
+146.0,Bloomfield
+147.0,Brookline
+148.0,Garfield
+149.0,Shadyside
+150.0,Shadyside
+151.0,Shadyside
+152.0,Brookline
+153.0,South Oakland
+156.0,Brighton Heights
+157.0,Shadyside
+158.0,Highland Park
+159.0,Highland Park
+161.0,Central Business District
+163.0,Brighton Heights
+164.0,Bluff
+166.0,South Side Flats
+167.0,Perry South
+168.0,Brighton Heights
+169.0,Allentown
+170.0,South Side Flats
+171.0,South Side Slopes
+172.0,South Side Flats
+173.0,South Side Flats
+174.0,South Side Flats
+175.0,South Side Flats
+176.0,West End
+177.0,Brookline
+178.0,Knoxville
+179.0,Carrick
+180.0,Carrick
+181.0,South Side Flats
+182.0,Carrick
+183.0,Carrick
+184.0,Carrick
+186.0,Brookline
+188.0,Carrick
+190.0,Carrick
+191.0,Carrick
+192.0,South Side Flats
+193.0,Brookline
+194.0,South Side Flats
+195.0,Central Business District
+196.0,Arlington
+197.0,South Side Flats
+200.0,South Side Flats
+201.0,Brookline
+202.0,Carrick
+203.0,Carrick
+204.0,Carrick
+206.0,South Side Slopes
+207.0,South Side Flats
+208.0,South Side Flats
+209.0,Brookline
+210.0,Brookline
+211.0,South Side Slopes
+212.0,South Side Flats
+213.0,Beltzhoover
+214.0,South Side Flats
+215.0,Allentown
+216.0,South Side Flats
+217.0,South Side Flats
+218.0,South Side Flats
+219.0,Knoxville
+220.0,Carrick
+221.0,Carrick
+222.0,South Side Slopes
+223.0,Carrick
+224.0,Allentown
+225.0,Perry South
+226.0,South Side Flats
+227.0,Knoxville
+228.0,Beltzhoover
+229.0,South Side Flats
+230.0,South Side Flats
+232.0,South Side Flats
+233.0,South Side Flats
+234.0,Arlington
+235.0,Beltzhoover
+236.0,South Side Flats
+237.0,Carrick
+238.0,Brighton Heights
+239.0,Allegheny West
+240.0,Bloomfield
+241.0,Shadyside
+242.0,Bloomfield
+244.0,Shadyside
+245.0,Manchester
+246.0,Allegheny West
+247.0,Allegheny West
+248.0,Brighton Heights
+249.0,Brighton Heights
+250.0,Allegheny West
+251.0,Allegheny West
+252.0,East Allegheny
+253.0,Allegheny West
+254.0,East Allegheny
+255.0,Troy Hill
+256.0,Troy Hill
+257.0,East Allegheny
+258.0,East Allegheny
+259.0,Troy Hill
+260.0,East Allegheny
+261.0,East Allegheny
+262.0,East Allegheny
+263.0,Troy Hill
+264.0,East Allegheny
+265.0,Brighton Heights
+266.0,Brighton Heights
+267.0,Brighton Heights
+268.0,East Allegheny
+269.0,Knoxville
+270.0,South Side Flats
+271.0,South Side Flats
+272.0,Brookline
+273.0,Carrick
+274.0,South Side Flats
+275.0,South Side Slopes
+276.0,South Side Flats
+277.0,South Side Slopes
+278.0,South Side Flats
+279.0,South Side Flats
+280.0,Knoxville
+281.0,South Side Flats
+282.0,Carrick
+283.0,South Side Slopes
+284.0,Highland Park
+286.0,Bloomfield
+288.0,Shadyside
+289.0,Allegheny Center
+290.0,Bluff
+291.0,Allegheny West
+292.0,Brookline
+293.0,Bloomfield
+294.0,Highland Park
+296.0,Shadyside
+297.0,Shadyside
+298.0,Morningside
+301.0,Central Oakland
+303.0,Bluff
+304.0,Bloomfield
+305.0,Shadyside
+306.0,Greenfield
+308.0,East Liberty
+309.0,Shadyside
+310.0,Shadyside
+311.0,Bluff
+312.0,Highland Park
+313.0,Bluff
+315.0,Knoxville
+316.0,Point Breeze
+317.0,Shadyside
+318.0,Bloomfield
+319.0,Shadyside
+320.0,Larimer
+321.0,Bluff
+322.0,East Liberty
+324.0,Shadyside
+325.0,Shadyside
+327.0,Brighton Heights
+328.0,South Shore
+329.0,Mount Washington
+330.0,Sheraden
+331.0,Crafton Heights
+332.0,Elliott
+333.0,Sheraden
+334.0,Sheraden
+335.0,Beechview
+336.0,Crafton Heights
+337.0,Crafton Heights
+338.0,Westwood
+339.0,Beechview
+340.0,Beechview
+341.0,Greenfield
+342.0,Morningside
+343.0,Elliott
+344.0,Spring Hill-City View
+345.0,Elliott
+346.0,Mount Washington
+347.0,Beechview
+348.0,Beechview
+349.0,Mount Washington
+350.0,Mount Washington
+351.0,West End
+352.0,Sheraden
+353.0,Crafton Heights
+354.0,Mount Washington
+355.0,Elliott
+356.0,Crafton Heights
+357.0,Windgap
+358.0,Sheraden
+359.0,Mount Washington
+360.0,West End
+361.0,Mount Washington
+362.0,Crafton Heights
+363.0,Elliott
+364.0,Sheraden
+365.0,Central Oakland
+367.0,Central Oakland
+368.0,Sheraden
+371.0,Mount Washington
+372.0,West End
+373.0,West End
+374.0,Mount Washington
+375.0,West End
+378.0,Crafton Heights
+379.0,Elliott
+380.0,Crafton Heights
+381.0,East Carnegie
+382.0,Mount Washington
+383.0,Sheraden
+384.0,Elliott
+385.0,Sheraden
+386.0,Mount Washington
+387.0,Sheraden
+388.0,Mount Washington
+389.0,Elliott
+390.0,Beechview
+391.0,Sheraden
+392.0,Central Oakland
+393.0,Sheraden
+394.0,Carrick
+395.0,Point Breeze
+396.0,Elliott
+397.0,Crawford-Roberts
+399.0,Central Oakland
+401.0,Knoxville
+402.0,Highland Park
+403.0,Elliott
+404.0,Shadyside
+405.0,Shadyside
+407.0,Carrick
+408.0,East Liberty
+409.0,Shadyside
+410.0,Shadyside
+413.0,Perry North
+414.0,North Shore
+416.0,Brighton Heights
+417.0,North Shore
+418.0,North Shore
+419.0,North Shore
+420.0,North Shore
+421.0,North Shore
+422.0,Strip District
+423.0,Strip District
+424.0,Mount Washington
+425.0,Strip District
+426.0,North Shore
+427.0,Strip District
+428.0,Strip District
+429.0,Sheraden
+430.0,Strip District
+431.0,Mount Washington
+432.0,Allegheny West
+433.0,North Shore
+434.0,North Shore
+435.0,Shadyside
+436.0,Upper Hill
+438.0,Strip District
+439.0,Polish Hill
+440.0,Crawford-Roberts
+441.0,Squirrel Hill South
+443.0,Strip District
+445.0,Greenfield
+446.0,North Shore
+447.0,Chateau
+448.0,North Shore
+449.0,Strip District
+450.0,Strip District
+451.0,Crawford-Roberts
+452.0,Polish Hill
+453.0,North Shore
+454.0,North Shore
+455.0,North Shore
+456.0,Polish Hill
+457.0,Central Lawrenceville
+458.0,North Shore
+459.0,North Shore
+460.0,Strip District
+461.0,North Shore
+462.0,Duquesne Heights
+463.0,Crawford-Roberts
+464.0,North Shore
+465.0,Strip District
+466.0,North Shore
+467.0,Polish Hill
+468.0,Strip District
+469.0,Polish Hill
+470.0,North Shore
+471.0,Mount Washington
+472.0,North Shore
+473.0,North Shore
+474.0,Strip District
+475.0,Polish Hill
+476.0,Crawford-Roberts
+477.0,North Shore
+478.0,Bedford Dwellings
+479.0,Polish Hill
+480.0,Carrick
+481.0,North Shore
+482.0,Chateau
+483.0,North Shore
+484.0,Shadyside
+485.0,Strip District
+486.0,North Shore
+487.0,Strip District
+488.0,Polish Hill
+489.0,North Shore
+490.0,Strip District
+491.0,North Shore
+492.0,Strip District
+493.0,North Shore
+494.0,North Oakland
+495.0,Perry North
+496.0,Chateau
+497.0,Polish Hill
+499.0,Greenfield
+500.0,North Shore
+501.0,Central Oakland
+503.0,North Shore
+504.0,Middle Hill
+505.0,Lower Lawrenceville
+506.0,North Shore
+507.0,Strip District
+508.0,Strip District
+509.0,Polish Hill
+510.0,North Shore
+511.0,Strip District
+512.0,Carrick
+513.0,Central Oakland
+514.0,North Shore
+515.0,North Shore
+516.0,Polish Hill
+517.0,North Shore
+518.0,North Shore
+519.0,Central Oakland
+520.0,Strip District
+521.0,Carrick
+522.0,Strip District
+525.0,Central Oakland
+531.0,Bluff
+532.0,Polish Hill
+533.0,Strip District
+534.0,Strip District
+535.0,Strip District
+536.0,Mount Washington
+537.0,Strip District
+538.0,Strip District
+540.0,Strip District
+541.0,Strip District
+542.0,Perry North
+543.0,North Oakland
+544.0,Allegheny West
+546.0,Strip District
+547.0,Strip District
+548.0,North Shore
+549.0,North Shore
+551.0,North Shore
+552.0,Strip District
+553.0,Squirrel Hill South
+554.0,Polish Hill
+555.0,North Shore
+556.0,Mount Washington
+557.0,Strip District
+558.0,Strip District
+559.0,Crawford-Roberts
+560.0,North Shore
+561.0,Middle Hill
+562.0,Morningside
+563.0,Central Northside
+564.0,North Shore
+565.0,Strip District
+567.0,Chateau
+569.0,North Shore
+570.0,North Shore
+571.0,Strip District
+572.0,Strip District
+573.0,North Shore
+574.0,Strip District
+575.0,North Shore
+576.0,North Shore
+578.0,North Shore
+579.0,North Oakland
+580.0,Carrick
+581.0,North Shore
+582.0,Carrick
+584.0,South Oakland
+585.0,Upper Hill
+586.0,South Side Flats
+587.0,Mount Washington
+588.0,Banksville
+589.0,South Side Flats
+590.0,Terrace Village
+591.0,East Liberty
+592.0,Point Breeze
+593.0,Perry South
+594.0,North Oakland
+595.0,East Liberty
+597.0,South Side Flats
+598.0,Hazelwood
+599.0,Crawford-Roberts
+600.0,Terrace Village
+603.0,South Side Slopes
+607.0,Shadyside
+608.0,Middle Hill
+610.0,East Liberty
+611.0,Squirrel Hill South
+613.0,Bloomfield
+614.0,Mount Washington
+616.0,West Oakland
+617.0,South Oakland
+618.0,Hazelwood
+619.0,Squirrel Hill North
+620.0,Upper Hill
+622.0,Lincoln Place
+625.0,Central Oakland
+627.0,East Liberty
+628.0,Central Lawrenceville
+629.0,Squirrel Hill North
+630.0,Shadyside
+631.0,Bluff
+632.0,Greenfield
+633.0,Hazelwood
+634.0,Mount Washington
+635.0,Hazelwood
+636.0,West Oakland
+637.0,Middle Hill
+638.0,Hazelwood
+642.0,Hazelwood
+643.0,Hazelwood
+644.0,Middle Hill
+646.0,Middle Hill
+647.0,Bluff
+648.0,East Liberty
+650.0,Hazelwood
+651.0,Middle Hill
+652.0,Perry North
+653.0,Perry North
+654.0,Perry North
+655.0,Middle Hill
+656.0,Allentown
+657.0,California-Kirkbride
+658.0,Squirrel Hill South
+659.0,Middle Hill
+660.0,Sheraden
+661.0,Mount Washington
+662.0,Mount Washington
+663.0,Mount Washington
+664.0,Carrick
+665.0,Homewood South
+667.0,West Oakland
+668.0,Shadyside
+670.0,Crawford-Roberts
+672.0,Perry South
+673.0,Hazelwood
+674.0,Hazelwood
+676.0,East Liberty
+677.0,Mount Washington
+678.0,Shadyside
+679.0,Strip District
+680.0,Hazelwood
+681.0,Central Oakland
+682.0,Central Oakland
+683.0,Shadyside
+684.0,Lincoln Place
+685.0,Hazelwood
+686.0,Bluff
+687.0,West Oakland
+688.0,East Liberty
+689.0,Central Business District
+690.0,North Oakland
+691.0,Terrace Village
+692.0,Central Oakland
+693.0,South Oakland
+694.0,Upper Hill
+695.0,Squirrel Hill South
+696.0,Terrace Village
+697.0,Brookline
+698.0,Squirrel Hill South
+699.0,Bluff
+700.0,Regent Square
+701.0,North Oakland
+702.0,Central Oakland
+703.0,Carrick
+704.0,Bluff
+705.0,Bluff
+706.0,North Oakland
+707.0,Homewood South
+708.0,Regent Square
+709.0,Hazelwood
+710.0,South Side Flats
+711.0,Middle Hill
+712.0,Greenfield
+713.0,Squirrel Hill South
+714.0,Central Oakland
+715.0,Upper Hill
+716.0,Greenfield
+717.0,Middle Hill
+719.0,Middle Hill
+720.0,Squirrel Hill North
+721.0,East Liberty
+722.0,Terrace Village
+723.0,Lincoln Place
+724.0,North Oakland
+727.0,Hazelwood
+728.0,Squirrel Hill North
+729.0,Bluff
+730.0,Middle Hill
+731.0,Crawford-Roberts
+732.0,Middle Hill
+733.0,Upper Hill
+734.0,Squirrel Hill South
+736.0,Greenfield
+737.0,Squirrel Hill South
+738.0,Central Business District
+739.0,Central Business District
+741.0,Crawford-Roberts
+742.0,Homewood South
+744.0,Middle Hill
+745.0,Bluff
+746.0,Crawford-Roberts
+747.0,Upper Hill
+749.0,Larimer
+750.0,South Oakland
+751.0,Homewood South
+752.0,Greenfield
+753.0,East Liberty
+754.0,Carrick
+755.0,East Liberty
+756.0,Crawford-Roberts
+757.0,Homewood South
+758.0,Perry South
+759.0,North Oakland
+760.0,Hazelwood
+761.0,South Side Flats
+762.0,Allentown
+763.0,Squirrel Hill South
+764.0,Squirrel Hill North
+765.0,Perry South
+766.0,Larimer
+768.0,Carrick
+769.0,Point Breeze
+771.0,Carrick
+773.0,North Oakland
+774.0,Squirrel Hill North
+777.0,Central Oakland
+778.0,Squirrel Hill South
+779.0,Squirrel Hill North
+780.0,Squirrel Hill South
+781.0,Squirrel Hill South
+782.0,Squirrel Hill South
+783.0,Squirrel Hill North
+784.0,Middle Hill
+785.0,Carrick
+786.0,Squirrel Hill South
+787.0,Carrick
+788.0,Squirrel Hill South
+789.0,Squirrel Hill North
+790.0,South Side Flats
+791.0,Carrick
+793.0,Squirrel Hill South
+794.0,Central Oakland
+795.0,East Liberty
+796.0,Point Breeze
+797.0,Squirrel Hill North
+798.0,Squirrel Hill South
+799.0,Squirrel Hill South
+800.0,Squirrel Hill South
+801.0,Squirrel Hill South
+802.0,Allentown
+803.0,Squirrel Hill South
+804.0,Sheraden
+805.0,Perry North
+806.0,Squirrel Hill South
+807.0,Banksville
+808.0,North Shore
+809.0,St. Clair
+810.0,Allentown
+811.0,Carrick
+813.0,Allentown
+815.0,Perry North
+816.0,South Side Flats
+817.0,South Side Flats
+818.0,South Side Flats
+819.0,South Side Flats
+820.0,Squirrel Hill South
+821.0,Spring Hill-City View
+822.0,Squirrel Hill South
+823.0,South Side Flats
+824.0,Crawford-Roberts
+825.0,Crawford-Roberts
+826.0,Middle Hill
+827.0,Middle Hill
+828.0,Crawford-Roberts
+829.0,North Oakland
+830.0,California-Kirkbride
+831.0,North Oakland
+832.0,Middle Hill
+833.0,North Oakland
+835.0,South Side Flats
+836.0,Squirrel Hill South
+837.0,Middle Hill
+838.0,Crawford-Roberts
+839.0,Squirrel Hill South
+840.0,Squirrel Hill North
+841.0,South Side Flats
+843.0,Middle Hill
+844.0,South Side Flats
+845.0,South Side Flats
+846.0,South Side Flats
+847.0,Carrick
+848.0,Mount Washington
+849.0,Squirrel Hill South
+851.0,Squirrel Hill South
+852.0,Middle Hill
+853.0,Hazelwood
+854.0,Squirrel Hill South
+855.0,Squirrel Hill South
+856.0,Squirrel Hill South
+857.0,Squirrel Hill North
+858.0,Middle Hill
+859.0,Squirrel Hill South
+860.0,Middle Hill
+861.0,Squirrel Hill South
+862.0,Hazelwood
+863.0,Squirrel Hill South
+864.0,Squirrel Hill South
+865.0,Westwood
+868.0,Squirrel Hill South
+870.0,Squirrel Hill South
+871.0,Hazelwood
+872.0,Squirrel Hill South
+873.0,Squirrel Hill South
+874.0,Oakwood
+875.0,South Side Flats
+876.0,Squirrel Hill South
+877.0,South Side Flats
+879.0,Westwood
+880.0,Perry South
+881.0,South Side Flats
+882.0,Westwood
+883.0,Duquesne Heights
+884.0,Middle Hill
+885.0,Middle Hill
+886.0,Shadyside
+887.0,Crawford-Roberts
+888.0,Squirrel Hill North
+889.0,Middle Hill
+890.0,Squirrel Hill North
+891.0,Squirrel Hill North
+893.0,Greenfield
+894.0,Homewood North
+895.0,North Shore
+896.0,Central Oakland
+897.0,Squirrel Hill South
+898.0,Squirrel Hill North
+899.0,Squirrel Hill North
+900.0,Sheraden
+901.0,West End
+902.0,Squirrel Hill South
+903.0,Central Oakland
+905.0,Squirrel Hill South
+906.0,Central Oakland
+907.0,Squirrel Hill North
+908.0,Squirrel Hill South
+911.0,Westwood
+913.0,West End
+914.0,West End
+915.0,Homewood South
+917.0,Point Breeze North
+918.0,Brookline
+919.0,Larimer
+920.0,Bloomfield
+921.0,Highland Park
+923.0,Friendship
+924.0,Homewood South
+925.0,Larimer
+926.0,Larimer
+927.0,East Liberty
+928.0,Brookline
+929.0,Homewood South
+930.0,East Liberty
+931.0,East Liberty
+932.0,Brookline
+934.0,Larimer
+935.0,Lincoln-Lemington-Belmar
+936.0,Homewood South
+937.0,Homewood South
+938.0,Larimer
+939.0,Homewood West
+940.0,Larimer
+941.0,Central Lawrenceville
+942.0,Shadyside
+943.0,Larimer
+944.0,East Liberty
+945.0,East Liberty
+946.0,Bloomfield
+947.0,Larimer
+948.0,East Liberty
+949.0,Bloomfield
+950.0,East Hills
+951.0,Lower Lawrenceville
+952.0,East Liberty
+953.0,Shadyside
+954.0,Bloomfield
+955.0,Bloomfield
+957.0,Brookline
+958.0,East Liberty
+959.0,Lower Lawrenceville
+960.0,Shadyside
+961.0,Shadyside
+962.0,Brookline
+963.0,East Liberty
+964.0,Homewood South
+965.0,Larimer
+966.0,East Liberty
+967.0,Friendship
+968.0,Homewood South
+969.0,East Liberty
+970.0,Bloomfield
+972.0,Bloomfield
+973.0,Friendship
+975.0,Point Breeze North
+976.0,Brookline
+977.0,Larimer
+978.0,Bluff
+979.0,Homewood South
+980.0,Homewood South
+981.0,Bloomfield
+982.0,Bluff
+983.0,Bluff
+985.0,Bluff
+986.0,East Liberty
+987.0,Homewood South
+988.0,Homewood South
+989.0,Lower Lawrenceville
+990.0,Lincoln-Lemington-Belmar
+991.0,Lincoln-Lemington-Belmar
+992.0,Central Lawrenceville
+993.0,Homewood South
+994.0,Bloomfield
+995.0,East Liberty
+996.0,Lower Lawrenceville
+997.0,Lower Lawrenceville
+998.0,Highland Park
+999.0,Homewood North
+1000.0,East Hills
+1002.0,East Liberty
+1003.0,East Liberty
+1004.0,Bloomfield
+1005.0,East Liberty
+1006.0,Friendship
+1007.0,Larimer
+1008.0,Highland Park
+1010.0,Bloomfield
+1011.0,Friendship
+1012.0,Homewood South
+1013.0,Lower Lawrenceville
+1014.0,Lincoln-Lemington-Belmar
+1015.0,Shadyside
+1016.0,Friendship
+1017.0,Shadyside
+1018.0,Friendship
+1019.0,East Allegheny
+1020.0,Friendship
+1021.0,Lincoln-Lemington-Belmar
+1022.0,East Liberty
+1023.0,Homewood South
+1024.0,Bloomfield
+1025.0,Lincoln-Lemington-Belmar
+1026.0,Bloomfield
+1027.0,Friendship
+1028.0,Bloomfield
+1029.0,East Liberty
+1030.0,East Liberty
+1031.0,Larimer
+1032.0,Shadyside
+1033.0,East Liberty
+1034.0,East Liberty
+1035.0,Middle Hill
+1036.0,Bluff
+1037.0,Central Oakland
+1039.0,South Oakland
+1040.0,South Oakland
+1041.0,Central Oakland
+1043.0,Brighton Heights
+1044.0,Bluff
+1045.0,Bluff
+1046.0,Middle Hill
+1047.0,Crawford-Roberts
+1048.0,West Oakland
+1049.0,Bluff
+1050.0,South Side Flats
+1051.0,Central Oakland
+1052.0,Bluff
+1054.0,West Oakland
+1055.0,Central Oakland
+1056.0,Crawford-Roberts
+1057.0,Central Lawrenceville
+1058.0,West Oakland
+1059.0,North Shore
+1061.0,Strip District
+1062.0,Bloomfield
+1063.0,Mount Washington
+1064.0,Homewood North
+1065.0,Upper Lawrenceville
+1066.0,Bloomfield
+1067.0,Central Oakland
+1068.0,Stanton Heights
+1069.0,Central Oakland
+1070.0,Central Oakland
+1071.0,Central Oakland
+1072.0,Central Oakland
+1073.0,North Oakland
+1075.0,Central Lawrenceville
+1076.0,Central Oakland
+1077.0,West Oakland
+1078.0,Bloomfield
+1079.0,Bloomfield
+1080.0,Bloomfield
+1081.0,Bloomfield
+1082.0,Bloomfield
+1083.0,Bloomfield
+1084.0,Bloomfield
+1085.0,Bloomfield
+1086.0,Bloomfield
+1087.0,Bloomfield
+1088.0,Bloomfield
+1089.0,Bloomfield
+1090.0,Carrick
+1091.0,Central Lawrenceville
+1092.0,Bloomfield
+1093.0,Spring Hill-City View
+1094.0,Allentown
+1095.0,Bloomfield
+1096.0,Central Lawrenceville
+1098.0,Bloomfield
+1099.0,Bloomfield
+1100.0,Greenfield
+1101.0,Bloomfield
+1102.0,Bloomfield
+1103.0,Bloomfield
+1104.0,Bloomfield
+1105.0,Central Lawrenceville
+1106.0,Central Lawrenceville
+1107.0,Friendship
+1108.0,Shadyside
+1109.0,Bloomfield
+1111.0,Bloomfield
+1112.0,Bloomfield
+1113.0,East Liberty
+1114.0,Shadyside
+1115.0,Homewood West
+1116.0,Homewood South
+1117.0,Bloomfield
+1118.0,East Liberty
+1119.0,East Liberty
+1120.0,East Liberty
+1121.0,East Liberty
+1122.0,Bloomfield
+1123.0,Friendship
+1124.0,Central Lawrenceville
+1125.0,Lower Lawrenceville
+1127.0,Strip District
+1128.0,Lower Lawrenceville
+1129.0,Highland Park
+1130.0,East Liberty
+1131.0,East Liberty
+1132.0,East Liberty
+1133.0,Lower Lawrenceville
+1134.0,Highland Park
+1136.0,East Liberty
+1137.0,East Liberty
+1138.0,East Liberty
+1139.0,East Liberty
+1140.0,Garfield
+1141.0,East Liberty
+1142.0,Bloomfield
+1143.0,Bloomfield
+1144.0,Bloomfield
+1145.0,Bloomfield
+1146.0,Bloomfield
+1147.0,Shadyside
+1148.0,Bloomfield
+1150.0,Garfield
+1151.0,Garfield
+1152.0,Friendship
+1153.0,Garfield
+1154.0,Carrick
+1155.0,East Liberty
+1156.0,Garfield
+1157.0,East Liberty
+1158.0,Carrick
+1159.0,East Liberty
+1160.0,Morningside
+1161.0,Morningside
+1163.0,East Liberty
+1165.0,East Liberty
+1166.0,Bloomfield
+1167.0,East Liberty
+1168.0,Upper Lawrenceville
+1169.0,Central Lawrenceville
+1170.0,Upper Lawrenceville
+1171.0,Lower Lawrenceville
+1173.0,Upper Lawrenceville
+1174.0,Morningside
+1175.0,Morningside
+1176.0,Central Lawrenceville
+1177.0,Central Lawrenceville
+1178.0,Lower Lawrenceville
+1179.0,Stanton Heights
+1180.0,Upper Lawrenceville
+1181.0,Central Lawrenceville
+1182.0,Lower Lawrenceville
+1183.0,Central Lawrenceville
+1184.0,Lower Lawrenceville
+1185.0,Central Lawrenceville
+1186.0,Lower Lawrenceville
+1187.0,Central Lawrenceville
+1188.0,Central Lawrenceville
+1189.0,Lower Lawrenceville
+1190.0,Upper Lawrenceville
+1191.0,Central Lawrenceville
+1192.0,Central Lawrenceville
+1193.0,Lower Lawrenceville
+1194.0,Central Lawrenceville
+1195.0,Lower Lawrenceville
+1196.0,Upper Lawrenceville
+1197.0,Upper Lawrenceville
+1198.0,Bloomfield
+1199.0,Upper Lawrenceville
+1201.0,Shadyside
+1202.0,Upper Lawrenceville
+1203.0,Lower Lawrenceville
+1204.0,Lower Lawrenceville
+1205.0,Lower Lawrenceville
+1206.0,Lower Lawrenceville
+1207.0,Lower Lawrenceville
+1208.0,Upper Lawrenceville
+1209.0,Lower Lawrenceville
+1210.0,Central Lawrenceville
+1211.0,Lower Lawrenceville
+1212.0,Bloomfield
+1213.0,Highland Park
+1214.0,Central Lawrenceville
+1215.0,Lower Lawrenceville
+1216.0,Lower Lawrenceville
+1217.0,Central Lawrenceville
+1218.0,Upper Lawrenceville
+1219.0,Upper Lawrenceville
+1220.0,Upper Lawrenceville
+1221.0,Central Lawrenceville
+1222.0,Upper Lawrenceville
+1223.0,Central Lawrenceville
+1224.0,Central Lawrenceville
+1225.0,East Liberty
+1226.0,Central Lawrenceville
+1227.0,Homewood South
+1228.0,Homewood South
+1229.0,Homewood South
+1230.0,Homewood South
+1231.0,Homewood South
+1232.0,Homewood South
+1233.0,Homewood South
+1234.0,Homewood South
+1235.0,Shadyside
+1236.0,Shadyside
+1238.0,Shadyside
+1239.0,Shadyside
+1240.0,Shadyside
+1241.0,Shadyside
+1242.0,Shadyside
+1243.0,Shadyside
+1244.0,Shadyside
+1245.0,Shadyside
+1246.0,Shadyside
+1247.0,Shadyside
+1248.0,Shadyside
+1249.0,Shadyside
+1250.0,Shadyside
+1251.0,Shadyside
+1252.0,Shadyside
+1253.0,Shadyside
+1254.0,Shadyside
+1255.0,Shadyside
+1256.0,Shadyside
+1257.0,Shadyside
+1258.0,Shadyside
+1259.0,Shadyside
+1260.0,Shadyside
+1261.0,Shadyside
+1262.0,Shadyside
+1263.0,Shadyside
+1264.0,Shadyside
+1265.0,Shadyside
+1266.0,Shadyside
+1267.0,Shadyside
+1268.0,Squirrel Hill South
+1269.0,Squirrel Hill South
+1270.0,Squirrel Hill South
+1271.0,Squirrel Hill South
+1272.0,Squirrel Hill South
+1273.0,Squirrel Hill South
+1274.0,Squirrel Hill South
+1275.0,Squirrel Hill South
+1276.0,Squirrel Hill South
+1277.0,Squirrel Hill South
+1278.0,Regent Square
+1279.0,Regent Square
+1280.0,Regent Square
+1281.0,Regent Square
+1282.0,Regent Square
+1283.0,Regent Square
+1284.0,Regent Square
+1285.0,Squirrel Hill South
+1286.0,Squirrel Hill South
+1287.0,Squirrel Hill South
+1288.0,Squirrel Hill South
+1289.0,Regent Square
+1291.0,Swisshelm Park
+1292.0,Squirrel Hill South
+1293.0,Squirrel Hill South
+1294.0,Point Breeze
+1295.0,Point Breeze
+1296.0,Point Breeze
+1297.0,Point Breeze
+1298.0,Point Breeze
+1299.0,Point Breeze
+1300.0,Squirrel Hill North
+1301.0,Squirrel Hill South
+1302.0,Homewood North
+1303.0,Central Business District
+1304.0,Shadyside
+1305.0,Shadyside
+1308.0,East Liberty
+1309.0,East Liberty
+1310.0,East Liberty
+1311.0,East Liberty
+1312.0,East Liberty
+1313.0,East Liberty
+1314.0,East Liberty
+1315.0,East Liberty
+1316.0,Lower Lawrenceville
+1317.0,Lower Lawrenceville
+1318.0,Squirrel Hill North
+1319.0,Shadyside
+1320.0,Squirrel Hill North
+1321.0,Shadyside
+1322.0,Squirrel Hill North
+1323.0,Elliott
+1324.0,Elliott
+1325.0,Central Oakland
+1326.0,Central Oakland
+1327.0,Central Oakland
+1328.0,Central Oakland
+1329.0,Crawford-Roberts
+1330.0,Crawford-Roberts
+1331.0,Lincoln Place
+1332.0,Lincoln Place
+1333.0,Lincoln Place
+1334.0,Lincoln Place
+1335.0,Larimer
+1336.0,Larimer
+1337.0,Larimer
+1338.0,Larimer
+1339.0,Larimer
